@@ -53,9 +53,10 @@ ALL('public cc_detail'),
 'public cc_detail'[week_num2] = MAX('public cc_detail'[week_num2])-1))
 
 
-#### Project Insights- Week 53 (31st Dec)
+#### 4. Project Insights- Week 53 (31st Dec)
 WoW change:
 • Revenue increased by 28.8%,
+
 • Total Transaction Amt & Count increased by xx% & xx%
 • Customer count increased by xx%
 Overview YTD:
