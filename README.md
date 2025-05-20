@@ -1,20 +1,28 @@
 # Credit_Card_Financial_Dashboard
 ### Credit Card Transaction and Customer Dashboard using Power BI
 
-### **Content
-#### 1. Project objective
-#### 2. Data from SQL
-#### 3. Data processing & DAX
-#### 4. Dashboard & insights
+
+
+## Content
+##### 1. Project objective
+##### 2. Data from SQL
+##### 3. Data processing & DAX
+##### 4. Dashboard & insights
+
+
 
 #### 1. Project Objective
-##### To develop an interactive and real-time weekly dashboard for credit card operations that highlights key performance indicators (KPIs), customer behavior, and operational trends. This dashboard will support stakeholders in making informed decisions, tracking performance efficiently, and identifying areas for improvement to enhance overall business outcomes.
+###### To develop an interactive and real-time weekly dashboard for credit card operations that highlights key performance indicators (KPIs), customer behavior, and operational trends. This dashboard will support stakeholders in making informed decisions, tracking performance efficiently, and identifying areas for improvement to enhance overall business outcomes.
+
+
 
 #### 2.Import data to SQL database
 
 ##### 1. Prepare csv file
 ##### 2. Create tables in SQL
 ##### 3. import csv file into SQL
+
+
 
 #### 3. DAX Queries
 
@@ -51,6 +59,7 @@
 ###### FILTER(
 ###### ALL('public cc_detail'),
 ###### 'public cc_detail'[week_num2] = MAX('public cc_detail'[week_num2])-1))
+
 
 
 #### 4. Project Insights- Week 53 (31st Dec)
